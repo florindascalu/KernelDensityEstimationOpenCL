@@ -1,1 +1,3 @@
 # KernelDensityEstimationOpenCL
+
+- delta encoding
